@@ -1,7 +1,0 @@
-﻿  Game.cpp
-C:\Users\andyl\source\repos\ConsoleSnakeGame\ConsoleSnakeGame\Game.cpp(13,6): warning C4551: function call missing argument list
-C:\Users\andyl\source\repos\ConsoleSnakeGame\ConsoleSnakeGame\Game.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\andyl\source\repos\ConsoleSnakeGame\ConsoleSnakeGame\Game.cpp(81,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\andyl\source\repos\ConsoleSnakeGame\ConsoleSnakeGame\Game.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\andyl\source\repos\ConsoleSnakeGame\ConsoleSnakeGame\Game.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
-  ConsoleSnakeGame.vcxproj -> C:\Users\andyl\source\repos\ConsoleSnakeGame\Debug\ConsoleSnakeGame.exe

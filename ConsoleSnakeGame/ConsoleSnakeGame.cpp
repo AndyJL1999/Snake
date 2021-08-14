@@ -6,7 +6,7 @@
 #include <thread>
 #include "Game.h"
 
-void gameLoop(Game game, Snake snake)
+void gameLoop(Game& game, Snake& snake)
 {
 	using namespace std::literals::chrono_literals;
 	while (game.playing)
